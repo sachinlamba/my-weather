@@ -1,0 +1,13 @@
+{
+    "name": "smt",
+    "version": "0.1.0",
+    "private": true,
+    "engines": {
+      "node": "6.10.2"
+    },
+    "dependencies": {
+        "http": "^0.0"
+    },
+    "homepage": ".",
+    "proxy": "http://localhost:3000"
+}
